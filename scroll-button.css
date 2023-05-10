@@ -1,0 +1,14 @@
+#scroll-button {
+    position:fixed;
+    background-color: darkblue;
+    right: 30px;
+    bottom: 30px;
+}
+.scroll-button-cell {
+    padding: 1px 7px 4px;
+    color: white
+    }
+.scroll-button-cell:not(#top-scroll-cell) {
+    padding: 1px 7px 4px;
+    color: white
+    }
